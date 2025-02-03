@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","730","createUserValidaContrato()","","Mon Feb 03 02:12:08 GMT 2025","failed","Mon Feb 03 02:12:09 GMT 2025","","Usuarios","Usuarios","createUserValidaContrato"
+"","2678","login()","","Mon Feb 03 02:12:05 GMT 2025","passed","Mon Feb 03 02:12:08 GMT 2025","","Login","Login","login"
+"","21","teste()","","Mon Feb 03 02:12:09 GMT 2025","passed","Mon Feb 03 02:12:09 GMT 2025","","teste","teste","teste"
