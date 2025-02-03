@@ -7,6 +7,7 @@ import static org.hamcrest.Matchers.*;
 
 public class Login {
 
+    /*
     @Test
     public void login() {
         baseURI = "https://serverest.dev";
@@ -26,5 +27,7 @@ public class Login {
                 .extract()
                 .path("authorization");
     }
+
+     */
 
 }

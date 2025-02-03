@@ -25,6 +25,7 @@ public class Usuarios {
     }
 
 
+    /*
 
     public void createUser() throws IOException {
        // baseURI = "https://serverest.dev";
@@ -43,7 +44,7 @@ public class Usuarios {
             //.path("authorization");
     }
 
-
+*/
 
 
     //teste de contrato
