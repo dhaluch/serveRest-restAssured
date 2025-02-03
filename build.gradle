@@ -7,7 +7,7 @@ version = '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
-
+apply plugin: "io.qameta.allure-report"
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
