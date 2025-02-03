@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4","validaCampoEmailValido()","","Mon Feb 03 21:59:41 GMT 2025","broken","Mon Feb 03 21:59:41 GMT 2025","","UsuariosTestes","UsuariosTestes","validaCampoEmailValido"
+"","3918","ValidaCriacaoUsuarioSucesso()","","Mon Feb 03 21:59:37 GMT 2025","passed","Mon Feb 03 21:59:41 GMT 2025","","UsuariosTestes","UsuariosTestes","ValidaCriacaoUsuarioSucesso"
+"","2","teste()","","Mon Feb 03 21:59:41 GMT 2025","passed","Mon Feb 03 21:59:41 GMT 2025","","teste","teste","teste"
+"","10","validaCampoAdministrador()","","Mon Feb 03 21:59:41 GMT 2025","broken","Mon Feb 03 21:59:41 GMT 2025","","UsuariosTestes","UsuariosTestes","validaCampoAdministrador"
