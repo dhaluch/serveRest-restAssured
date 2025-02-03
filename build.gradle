@@ -4,7 +4,6 @@ plugins{
 }
 group = 'org.example'
 version = '1.0-SNAPSHOT'
-
 repositories {
     mavenCentral()
 }
@@ -24,7 +23,9 @@ dependencies {
     implementation group: 'org.aeonbits.owner', name: 'owner', version: '1.0.12'
     // https://mvnrepository.com/artifact/io.qameta.allure/allure-rest-assured
     implementation group: 'io.qameta.allure', name: 'allure-rest-assured', version: '2.29.1'
-
+    implementation 'org.slf4j:slf4j-nop:2.0.7'
+    // Add necessary Allure dependencies to dependencies section
+    testImplementation("io.qameta.allure:allure-rest-assured")
 
 
 

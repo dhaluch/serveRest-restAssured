@@ -9,7 +9,7 @@ import java.io.IOException;
 public class UsuarioDataFactory {
 
     public static Usuario criarUsuario() throws IOException {
-        String postUsuario = "C:\\LabAutomacao\\API\\Rest-Assured\\test\\src\\test\\resources\\requestBody\\postUsuarios.json";
+        String postUsuario = "src/test/resources/requestBody/postUsuarios.json";
         
         ObjectMapper objectMapper = new ObjectMapper();
         Usuario usuario = objectMapper.readValue(new FileInputStream(postUsuario), Usuario.class);
