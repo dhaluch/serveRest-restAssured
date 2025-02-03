@@ -7,6 +7,4 @@ public interface Configuracoes extends Config {
     @Key("baseURI")
     String baseURI();
 
-//"file:C:\\LabAutomacao\\API\\Rest-Assured\\test\\src\\test\\resources\\properties\\test.properties"
-//..\..\..\teste.json
 }

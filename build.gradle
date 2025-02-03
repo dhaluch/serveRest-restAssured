@@ -26,6 +26,8 @@ dependencies {
     implementation 'org.slf4j:slf4j-nop:2.0.7'
     // Add necessary Allure dependencies to dependencies section
     testImplementation("io.qameta.allure:allure-rest-assured")
+    implementation 'com.github.javafaker:javafaker:1.0.2'
+    implementation 'com.googlecode.json-simple:json-simple:1.1.1'
 
 
 
