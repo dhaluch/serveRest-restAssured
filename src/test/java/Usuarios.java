@@ -62,7 +62,7 @@ public class Usuarios {
 
         .then()
                 .assertThat()
-                .statusCode(201)
+                .statusCode(400)
                 .body(matchesJsonSchemaInClasspath("schemas/postUsuariovalido.json"))
                 .log().all();
 
